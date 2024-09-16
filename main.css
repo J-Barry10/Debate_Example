@@ -1,0 +1,40 @@
+/* This is a CSS file */
+
+
+/* Tell all the font on te page to be Arial, With back up of Bush Script MT, With back of sans-serif*/
+
+{
+	font-family: Georgia, "Bush Script MT", serif;}
+
+h1 {
+	font-family: "Georgia", Courier, monospace;
+	text-transform: uppercase;
+}
+
+em {
+	color: green;
+}
+
+em {
+	color: red;
+}
+
+p strong {
+	color: blue;
+}
+
+.blue {
+	color: blue;
+}
+
+.red {
+	color: red;
+}
+
+figcaption {
+	color: gray;
+}
+
+h6 {
+	color: gray;
+}
